@@ -1,3 +1,3 @@
 # new project 
 
-this project is created from local system
+simon says game project
