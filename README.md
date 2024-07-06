@@ -1,3 +1,3 @@
 # new project 
 
-simon says game project
+simon says game mini project
